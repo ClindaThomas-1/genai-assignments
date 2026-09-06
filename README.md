@@ -1,2 +1,1 @@
 # genai-assignments
-genai-learning
